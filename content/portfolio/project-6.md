@@ -98,6 +98,10 @@ sections:
       be more intuitive for the user's understanding, resulting in higher
       engagement across the board. I also explored many badges and tooltips to
       show the site is updated frequently.
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Subtle
