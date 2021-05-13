@@ -36,7 +36,52 @@ sections:
 
       >
 
-      > *- The Marketing Team*
+      > *
+
+      > \- The Marketing Team*
+
+
+      From my interpretation, we were hiding all these critical, descriptive,
+      site-wide links from the user. Everyone had their idea of how the
+      navigation should work from an SEO perspective. I explained distinctive
+      marketing strategies over time had left the overall feel of the site
+      navigation more disjointed than we’d like. I defended my case with various
+      journey reports of users randomly landing on one unrelated topic to the
+      next, which could be a reason why our bounce rate is high, which is
+      another initiative we want to reduce. If we continue shoehorned orphaned
+      content according to SEO efforts into the new navigation, we will run into
+      the same scalability problem we were asked to resolve in the
+      not-too-distant future.
+
+
+      The team saw how structured navigation could have a positive impact on
+      other SEO initiatives. Working with marketing, we shifted the SEO strategy
+      to be less reliant on the top navigation. They grant me the autonomy to
+      design how I see fit. As a peace offering to the marketing team, I offered
+      to test and validate the shift of SEO efforts and its effect on search
+      engine ranking.
+
+
+      ## Prototype Round 1
+
+
+      ### 1. Let's Marie Kondo Dis
+
+
+      The old navigation imitated the way our teams built rather than the way
+      users experienced the product. Our topics were sometimes too broad and
+      sometimes too narrow, so streamlining those, relative to the content we
+      had, was a complexity as well. The site itself had several stylistic
+      updates, so I molded something that felt like it lived in the same world.
+      I found a balanced design to distinguish between umbrella content versus
+      focused.
+
+
+      > *How can I tell the story of our user’s journey? From building a mental
+      model of what Annuity.org is, to understanding how it can help their use
+      case."
+
+      > \- My little designer brain*
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
