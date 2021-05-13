@@ -168,6 +168,7 @@ sections:
       the topic itself before they are willing to inquire about a quote.
     width: regular
     type: image_section
+    image: /images/AN CTA Results.png
   - content: >
       Ultimately, the ebook CTA resulted in +17.53% increase in leads at 99%
       statistical confidence. This indicates that Annuity.org users may need
