@@ -128,7 +128,7 @@ sections:
       development, and design to build from my mockups. A new site map emerged
       with "hub pages".
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: New site map
     caption: lorem-ipsum
     width: regular
     type: image_section
