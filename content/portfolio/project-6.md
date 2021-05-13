@@ -133,17 +133,29 @@ sections:
     width: wide
     type: image_section
     image: /images/New Site Map.png
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      They connected on my idea of telling a story through the navigation.
+      Specifically, they liked how narrative subtitles could provide a mental
+      model of what you can do with Annuity.org. This is how "hub pages"
+      emerged. It is a page that clusters key goals into collections that
+      support the preliminary positioning. To manage the problem of scalability,
+      we nested "SEO" template pages inside a hub page with a sticky sidebar
+      nav. That allowed us the elasticity to fit more content easily, as well as
+      enable users to dive deep on the topics they're interested in without
+      being shepherded to pages they do not care about.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ### SEO Templates + Sticky Sidebar Nav = ❤️
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      The first hub consists of the main sub-topics in Annuity.org; these are
+      "Parent Pages". These pages are curated, yet very flexible. The "SEO"
+      pages, on the other hand, are templated with abundant text. A child SEO
+      page will inherit the graphic content and headlines as its hero from the
+      content section of a parent page. These pages are meant to be found
+      through exploring the site, paid advertisement, or organic search. On
+      parent and child SEO pages, we are testing the idea of adding a sticky
+      sidebar nav as the user scrolls to focus and limit random page movement.
     type: text_section
 seo:
   type: stackbit_page_meta
