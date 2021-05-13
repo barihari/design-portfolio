@@ -173,6 +173,18 @@ sections:
     width: regular
     type: image_section
     image: /images/CTA Results.png
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
 seo:
   type: stackbit_page_meta
   title: Subtle
