@@ -16,6 +16,7 @@ sections:
     image: /images/Annuity Orginal Menu.png
     image_alt: Annuity.org's old design of the main menu
     width: wide
+    caption: Annuity.org's old design of the main menu
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
