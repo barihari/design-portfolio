@@ -79,7 +79,11 @@ sections:
       model of what Annuity.org is, to understanding how it can help their use
       case."
 
-      > \- My little designer brain*
+      > *
+
+      >
+
+      > *- My little designer brain*
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
