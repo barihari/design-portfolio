@@ -86,7 +86,7 @@ sections:
       > *- My little designer brain*
   - type: image_section
     image: /images/Redesign Menu.png
-    image_alt: The redesi
+    image_alt: Redesign menu
     width: wide
   - type: text_section
     content: >-
