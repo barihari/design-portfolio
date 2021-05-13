@@ -87,7 +87,7 @@ sections:
   - type: image_section
     image: /images/Redesign Menu.png
     image_alt: Redesign menu
-    width: wide
+    width: regular
     caption: Redesign menu
   - type: text_section
     content: >-
