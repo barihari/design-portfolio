@@ -85,6 +85,7 @@ sections:
     image_alt: Redesign menu
     width: wide
     caption: Redesign menu
+    image: /images/AN Redesign Menu.png
   - type: text_section
     content: >
       ### Contextual Items
