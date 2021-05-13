@@ -98,6 +98,7 @@ sections:
   - image_alt: Redesign menu explaining contextual items
     width: wide
     type: image_section
+    image: /images/super-comet.png
   - image_alt: FAB chips added to new and updated content to capture users' attention.
     caption: New and updated content may capture users' attention.
     width: regular
