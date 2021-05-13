@@ -116,6 +116,10 @@ sections:
       great deal of content that didn’t fit under our existing topics. The sheer
       range of content on the site presented our biggest challenge.
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Subtle
