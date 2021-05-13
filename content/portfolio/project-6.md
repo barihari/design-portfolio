@@ -1,6 +1,6 @@
 ---
 title: Annuity.org's Navigation
-subtitle: Brand Development
+subtitle: Menu Development
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
