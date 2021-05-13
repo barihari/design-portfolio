@@ -14,7 +14,7 @@ sections:
   - type: image_section
     image_alt: Annuity.org's old design of the main menu
     width: wide
-    caption: Annuity.org's old design of the main menu
+    caption: The old design of the main menu on Annuity.org
     image: /images/AN Orginal Menu.png
   - type: text_section
     content: >
