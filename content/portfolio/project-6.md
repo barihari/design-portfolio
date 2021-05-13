@@ -107,17 +107,16 @@ sections:
     width: regular
     type: image_section
     image: /images/FAB Chips.png
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Prototype Round 2
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ### The Hub 
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      I presented my first iterations to the team, emphasizing that there was a
+      great deal of content that didn’t fit under our existing topics. The sheer
+      range of content on the site presented our biggest challenge.
     type: text_section
 seo:
   type: stackbit_page_meta
