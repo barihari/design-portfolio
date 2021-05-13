@@ -88,6 +88,7 @@ sections:
     image: /images/Redesign Menu.png
     image_alt: Redesign menu
     width: wide
+    caption: Redesign menu
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
