@@ -16,6 +16,7 @@ sections:
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
     width: wide
+    caption: Test
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
