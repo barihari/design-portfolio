@@ -157,7 +157,7 @@ sections:
       parent and child SEO pages, we are testing the idea of adding a sticky
       sidebar nav as the user scrolls to focus and limit random page movement.
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: Sticky Sidebar navigation
     caption: Sticky Sidebar navigation
     width: regular
     type: image_section
