@@ -166,7 +166,7 @@ sections:
     type: text_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: wide
+    width: regular
     type: image_section
     image: /images/CTA Results.png
 seo:
