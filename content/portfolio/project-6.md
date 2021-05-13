@@ -199,7 +199,7 @@ sections:
       itself for the future.
 
 
-      *\*Current initiative is still in testing and development *
+      \*Current initiative is still in testing and development \*
     type: text_section
 seo:
   type: stackbit_page_meta
