@@ -63,7 +63,7 @@ sections:
       ## Prototype Round 1
 
 
-      ### 1. Let's Marie Kondo Dis
+      ### Let's Marie Kondo Dis
 
 
       The old navigation imitated the way our teams built rather than the way
@@ -78,8 +78,6 @@ sections:
       > How can I tell the story of our user’s journey? From building a mental
       model of what Annuity.org is, to understanding how it can help their use
       case.
-
-      >
 
       >
 
