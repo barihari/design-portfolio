@@ -6,7 +6,7 @@ thumb_image: /images/AN Menu Feature Image.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: /images/about.jpg
+    image: /images/Annuity Menu Feature Image.png
     image_alt: Annuity.org redesign menu
     width: wide
   - type: text_section
