@@ -117,7 +117,7 @@ sections:
       range of content on the site presented our biggest challenge.
     type: text_section
   - image_alt: Old site map
-    caption: lorem-ipsum
+    caption: Old site map.
     width: regular
     type: image_section
     image: /images/Old Site Map.png
