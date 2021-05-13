@@ -8,7 +8,6 @@ sections:
   - type: image_section
     image: /images/AN Menu Feature Image.png
     image_alt: Subtle 1
-    caption: This is the caption of the image
     width: wide
   - type: text_section
     content: >
