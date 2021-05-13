@@ -36,7 +36,7 @@ sections:
 
       >
 
-      > ###### *- The Marketing Team*
+      > ***- The Marketing Team***
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
