@@ -100,7 +100,7 @@ sections:
       show the site is updated frequently.
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/Redesign Menu Context.png
   - image_alt: lorem-ipsum
