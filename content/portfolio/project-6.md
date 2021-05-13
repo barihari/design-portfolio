@@ -11,15 +11,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "Entering 2020,\_[Annuity.org](http://Annuity.org)\_wanted to move toward a more cohesive brand message. Things weren’t in disarray—we had a reliable brand, voice, visuals, and product. But years of different design and marketing campaigns led our content and marketing team unclear on how to move forward for housing and pushing out new content. Into that void, I convinced the organization to re-evaluate how it saw its own product, and how it could be marketed.\n\nThe original task was straightforward: make the site navigation scalable for new content. I was the most analytical designer on the team, which led to me leaning heavily on my institutional knowledge of data and conducting additional research to understand how our content could help users accomplish their goals. It became clear that a mere reshuffle wasn’t going to cut it. We had to investigate deeper and understand how navigation affects our ability to tell our story.\n"
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
