@@ -164,7 +164,7 @@ sections:
     image: /images/SidebarNav.gif
   - content: "## Testing\n\nBefore going all-in on the redesign, the team wanted to test the first hub (Annuities) to see if it delivered the results we were looking for. The number one goal of this design was to achieve new levels of elasticity going forward.\_Annuity.org\_is an ever-changing product, so a site navigation structure that works for today’s iteration is not certainly going to work for tomorrow’s. I designed with that in mind so that we would have room to have general categories where we could host more content now and going forward. I’m excited about how each topic is modular, allowing for not just main items of content, but the ability to insert financial tools, case studies, and customer testimonials as the team sees fit.\n\n## Outcomes\n\nThe team detected higher engagement with all navigation links. Users viewed SEO child pages to a much higher activity through the sticky sidebar nav. Although I removed the old CTA from the nav, leads increased drastically. The old CTA repeatedly generated flat results, which goes to show that best practices mean nothing if they aren’t validated within a specific context.\n"
     type: text_section
-  - image_alt: Redesign CTA leadd to 17
+  - image_alt: Redesign CTA leadd to 17.53
     caption: >-
       This indicates that Annuity.org visitors may need more education around
       the topic itself before they are willing to inquire about a quote.
