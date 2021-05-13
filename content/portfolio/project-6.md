@@ -102,7 +102,7 @@ sections:
     width: wide
     type: image_section
     image: /images/Redesign Menu Context.png
-  - image_alt: FAB chips added to eew and updated content to capture users' attention.
+  - image_alt: FAB chips added to new and updated content to capture users' attention.
     caption: New and updated content may capture users' attention.
     width: regular
     type: image_section
