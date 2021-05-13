@@ -59,7 +59,7 @@ sections:
       engine ranking.
 
 
-      ## Prototype Round 1
+      ## Prototypes
 
 
       ### Let's Marie Kondo Dis
