@@ -129,7 +129,7 @@ sections:
       with "hub pages".
     type: text_section
   - image_alt: New site map
-    caption: lorem-ipsum
+    caption: New site map.
     width: regular
     type: image_section
     image: /images/New Site Map.png
