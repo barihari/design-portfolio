@@ -170,7 +170,7 @@ sections:
     caption: >-
       This indicates that Annuity.org visitors may need more education around
       the topic itself before they are willing to inquire about a quote.
-    width: wide
+    width: regular
     type: image_section
     image: /images/CTA Results.png
   - content: >
