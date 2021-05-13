@@ -15,6 +15,7 @@ sections:
     image_alt: Annuity.org's old design of the main menu
     width: wide
     caption: Annuity.org's old design of the main menu
+    image: /images/AN Orginal Menu.png
   - type: text_section
     content: >
       ## Problem Pt 2: Buy-In
