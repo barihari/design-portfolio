@@ -158,7 +158,7 @@ sections:
       sidebar nav as the user scrolls to focus and limit random page movement.
     type: text_section
   - image_alt: Gif of sticky sidebar navigation
-    caption: Sticky Sidebar navigation
+    caption: Sticky sidebar navigation.
     width: regular
     type: image_section
     image: /images/SidebarNav.gif
