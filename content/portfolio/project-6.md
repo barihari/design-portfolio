@@ -7,7 +7,7 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image: /images/AN Menu Feature Image.png
-    image_alt: Subtle 1
+    image_alt: 'Feature image of '
     width: wide
   - type: text_section
     content: >
