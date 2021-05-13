@@ -2,7 +2,7 @@
 title: Annuity.org's Navigation
 subtitle: Redesign Navigation
 date: '2021-02-06'
-thumb_image: /images/AN Menu Feature Image.png
+thumb_image: /images/Annuity Menu Feature Image.png
 thumb_image_alt: Annuity.org redesign menu
 sections:
   - type: image_section
