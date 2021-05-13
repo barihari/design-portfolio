@@ -105,10 +105,7 @@ sections:
     type: image_section
     image: /images/AN FAB Chips.png
   - content: >
-      ## Prototype Round 2
-
-
-      ### The Hub 
+      ### The Hub
 
 
       I presented my first iterations to the team, emphasizing that there was a
