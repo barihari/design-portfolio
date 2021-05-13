@@ -99,7 +99,6 @@ sections:
       engagement across the board. I also explored many badges and tooltips to
       show the site is updated frequently.
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: wide
     type: image_section
     image: /images/Redesign Menu Context.png
