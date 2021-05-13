@@ -2,7 +2,7 @@
 title: Annuity.org's Navigation
 subtitle: "Entering 2021,\_Annuity.org\_wanted to move toward a more cohesive brand message. Things weren’t in disarray—we had a reliable brand, voice, visuals, and product. But years of different design and marketing campaigns led our content and marketing team unclear on how to move forward for housing and pushing out new content. Into that void, I convinced the organization to re-evaluate how it saw its own product, and how it could be marketed."
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: /images/AN Menu Feature Image.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
