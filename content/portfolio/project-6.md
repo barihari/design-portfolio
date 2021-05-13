@@ -75,11 +75,11 @@ sections:
       focused.
 
 
-      > *How can I tell the story of our user’s journey? From building a mental
+      > How can I tell the story of our user’s journey? From building a mental
       model of what Annuity.org is, to understanding how it can help their use
-      case."
+      case.
 
-      > *
+      >
 
       >
 
