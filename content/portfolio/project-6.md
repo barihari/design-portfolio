@@ -29,10 +29,10 @@ sections:
       dominates every strategic initiative.
 
 
-      > "For our more prominent sites, this is the only way you can link to all
+      > For our more prominent sites, this is the only way you can link to all
       the crucial pages without overwhelming a user with choices. If we go this
       direction, you introduce the risk of hiding all of these critical,
-      descriptive, site-wide links from search engines."
+      descriptive, site-wide links from search engines.
 
       >
 
