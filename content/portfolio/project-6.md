@@ -103,6 +103,7 @@ sections:
     caption: New and updated content may capture users' attention.
     width: regular
     type: image_section
+    image: /images/AN FAB Chips.png
   - content: >
       ## Prototype Round 2
 
