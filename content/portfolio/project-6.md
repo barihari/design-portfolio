@@ -18,11 +18,23 @@ sections:
     width: wide
     caption: Annuity.org's old design of the main menu
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ## Problem Pt 2: Buy-In
+
+
+      Our organization is a cross-functional team, from content writers to
+      marketing and partners. What started as a series of meetings to get
+      scalability buy-in, became a discussion about who, what, why, and "SEO is
+      essential, you can't touch it!". At our organization, SEO is king, and it
+      dominates every strategic initiative.
+
+
+      > *"For our more prominent sites, this is the only way you can link to all
+      the crucial pages without overwhelming a user with choices. If we go this
+      direction, you introduce the risk of hiding all of these critical,
+      descriptive, site-wide links from search engines."  
+
+      > \- Marketing Team*
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
