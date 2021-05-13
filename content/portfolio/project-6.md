@@ -158,7 +158,7 @@ sections:
       sidebar nav as the user scrolls to focus and limit random page movement.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Sticky Sidebar navigation
     width: regular
     type: image_section
     image: /images/SidebarNav.gif
