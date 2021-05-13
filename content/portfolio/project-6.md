@@ -36,9 +36,7 @@ sections:
 
       >
 
-      > *
-
-      > \- The Marketing Team*
+      > \- The Marketing Team\*
 
 
       From my interpretation, we were hiding all these critical, descriptive,
