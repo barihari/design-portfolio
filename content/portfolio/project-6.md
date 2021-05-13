@@ -91,7 +91,7 @@ sections:
     caption: Redesign menu
   - type: text_section
     content: >
-      ## 2. Contextual Items
+      ### Contextual Items
 
 
       I thought if I provide narrative subtitles of each item, the layout would
