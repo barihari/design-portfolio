@@ -173,17 +173,33 @@ sections:
     width: regular
     type: image_section
     image: /images/CTA Results.png
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      Ultimately, the ebook CTA resulted in +17.53% increase in leads at 99%
+      statistical confidence. This indicates that Annuity.org users may need
+      more education around the topic itself before they are willing to inquire
+      about a quote. Based on these results, future experiments should focus on
+      either educating users about financial products or make it more
+      straightforward for users to access this type of content.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ## Conclusion&#xA;
 
 
-      - Lorem ipsum
+      In early 2021, Annuity.org's marketing site navigation was a bit of a
+      makeshift. With the help of a very collaborative team, we found an
+      argument for a scalable centralized system. This was met with excitement
+      (and drama), bringing a wave of change to the organization on how it
+      thought about its product. On this initiative, I was able to see firsthand
+      how designing with research, autonomy, responsibility, and impactful
+      solutions in mind will position others to champion your ideas. I advocated
+      testing team members' ideas to bring people to the cause. This helped
+      widen the scope of what design can offer to an organization, which proved
+      to have a significant effect on collaboration for the better. I am
+      fortunate to have played an essential role in how Annuity.org structures
+      itself for the future.
 
-      - dolor sit amet
+
+      *\*Current initiative is still in testing and development *
     type: text_section
 seo:
   type: stackbit_page_meta
