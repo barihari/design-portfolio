@@ -199,6 +199,10 @@ sections:
 
       *The current initiative is still in testing and development.*
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Subtle
