@@ -103,7 +103,7 @@ sections:
     type: image_section
     image: /images/Redesign Menu Context.png
   - image_alt: New and updated content may capture users' attention.
-    caption: lorem-ipsum
+    caption: New and updated content may capture users' attention.
     width: regular
     type: image_section
     image: /images/FAB Chips.png
