@@ -98,7 +98,7 @@ sections:
       be more intuitive for the user's understanding, resulting in higher
       engagement across the board. I also explored many badges and tooltips to
       show the site is updated frequently.
-  - image_alt: lorem-ipsum
+  - image_alt: Redesign menu explaining contextual items
     width: wide
     type: image_section
     image: /images/Redesign Menu Context.png
