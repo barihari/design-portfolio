@@ -102,7 +102,7 @@ sections:
     width: wide
     type: image_section
     image: /images/Redesign Menu Context.png
-  - image_alt: lorem-ipsum
+  - image_alt: New and updated content may capture
     caption: lorem-ipsum
     width: regular
     type: image_section
