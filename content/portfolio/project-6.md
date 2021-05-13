@@ -116,7 +116,6 @@ sections:
     caption: Old site map.
     width: wide
     type: image_section
-    image: /images/Old Site Map.png
   - content: >
       After that meeting, we set up more meetings with team leads across the
       organization to talk them through what we wanted to do and how they could
