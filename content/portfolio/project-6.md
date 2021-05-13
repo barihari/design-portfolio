@@ -118,7 +118,7 @@ sections:
     type: text_section
   - image_alt: Old site map
     caption: Old site map.
-    width: regular
+    width: wide
     type: image_section
     image: /images/Old Site Map.png
 seo:
