@@ -130,7 +130,7 @@ sections:
     type: text_section
   - image_alt: New site map
     caption: New site map.
-    width: regular
+    width: wide
     type: image_section
     image: /images/New Site Map.png
 seo:
