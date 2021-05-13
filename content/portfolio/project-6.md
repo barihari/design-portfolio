@@ -168,6 +168,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/CTA Results.png
 seo:
   type: stackbit_page_meta
   title: Subtle
