@@ -82,7 +82,7 @@ sections:
 
       > *- My little designer brain*
   - type: image_section
-    image_alt: Redesign menu
+    image_alt: The redesign menu
     width: wide
     caption: The redesigned menu.
     image: /images/AN Redesign Menu.png
