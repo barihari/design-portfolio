@@ -90,15 +90,14 @@ sections:
     width: wide
     caption: Redesign menu
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      ## 2. Contextual Items
+
+
+      I thought if I provide narrative subtitles of each item, the layout would
+      be more intuitive for the user's understanding, resulting in higher
+      engagement across the board. I also explored many badges and tooltips to
+      show the site is updated frequently.
 seo:
   type: stackbit_page_meta
   title: Subtle
