@@ -29,17 +29,15 @@ sections:
     width: regular
     type: image_section
     image: /images/about.jpg
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      Ares is the parent Design System that contains the main components. Each
+      main component is a wireframe crafted with its non-negotiable atoms and
+      molecules along with its responsive mobile counterpart. Also, I built it
+      with Figma's auto layout feature.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Finally, I shared the Ares library, where it can be extended by all
+      designers for the brands they work on. 
     type: text_section
 seo:
   type: stackbit_page_meta
