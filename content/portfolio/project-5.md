@@ -59,6 +59,10 @@ sections:
       container: no more nudging or adjusting space. Designers can now spend
       more time testing & irritating layouts quickly.
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
