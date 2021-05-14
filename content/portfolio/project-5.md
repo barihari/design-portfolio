@@ -44,17 +44,20 @@ sections:
     width: regular
     type: image_section
     image: /images/about.jpg
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ### Templates
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      With a complete set of components ready to be consumed, the next step is
+      to build the templates and QA that everything works flawlessly.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Building templates from scratch can be very long and tedious, but the
+      beauty of using a Design System is that you don't need to recreate
+      anything; all the components are already built. The power of auto-layout +
+      variations allows the components to snap perfectly inside the template
+      container: no more nudging or adjusting space. Designers can now spend
+      more time testing & irritating layouts quickly.
     type: text_section
 seo:
   type: stackbit_page_meta
