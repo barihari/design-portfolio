@@ -23,15 +23,7 @@ sections:
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "This document quickly became essential as it gave me a holistic view of what was missing or not; when you have to deal with multiple brands, you need to keep things organized.\_\n\nNow that the inventory is done, building the Design System work can start.\n\nWe created a foundation boilerplate that could be duplicated and to be rebranded for each brand.\n\nHere is the boilerplate foundations of Launch That design system we call Ares:\n\n*   Color\n\n*   Type-scale\n\n*   Spacing\n\n*   System Fonts\n"
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
