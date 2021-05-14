@@ -39,6 +39,10 @@ sections:
       Finally, I shared the Ares library, where it can be extended by all
       designers for the brands they work on. 
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
