@@ -65,6 +65,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/DS Action List Variants.png
   - content: >
       Finally, I shared the Ares library, where it can be extended by all
       designers for the brands they work on.
