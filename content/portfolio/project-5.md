@@ -78,7 +78,7 @@ sections:
 
 
       With a complete set of components ready to be consumed, the next step is
-      to build the templates and QA that everything works flawlessly.
+      to build the templates and test that everything works flawlessly.
 
 
       Building templates from scratch can be very long and tedious, but the
