@@ -1,5 +1,5 @@
 ---
-title: Launch That's Design System
+title: 'Ares, A Multi-Brand Design System'
 subtitle: Creating a multi-brand design system
 date: '2021-01-10'
 thumb_image: /images/DS Feature Image.png
