@@ -23,7 +23,7 @@ sections:
     image: /images/DS Page Builder Audit.png
     image_alt: Dropdowns showing variants in our custom WordPress page builder.
     width: wide
-    caption: An audit of the many variants in our custom WordPress page builder.
+    caption: An audit of the many variants in our WordPress page builder.
   - image_alt: Comparing layouts to identify patterns.
     caption: "Comparing layouts to identify patterns. \U0001F645\U0001F3FD‍♀️ for the hideous layouts."
     width: wide
