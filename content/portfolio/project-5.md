@@ -60,7 +60,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/about.jpg
+    image: /images/DS Action List Component.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
