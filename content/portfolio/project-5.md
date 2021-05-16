@@ -88,7 +88,6 @@ sections:
   - image_alt: >-
       Gif of how I used auto-layout & variants to snap in place inside a
       template.
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/DS autolayout.gif
