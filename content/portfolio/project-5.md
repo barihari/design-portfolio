@@ -85,7 +85,9 @@ sections:
       container: no more nudging or adjusting space. Designers can now spend
       more time testing & irritating layouts quickly.
     type: text_section
-  - image_alt: Gif of how I used auto-layout & variants to snap in place of a template.
+  - image_alt: >-
+      Gif of how I used auto-layout & variants to snap in place inside a
+      template.
     caption: lorem-ipsum
     width: regular
     type: image_section
