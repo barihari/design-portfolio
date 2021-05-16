@@ -3,7 +3,7 @@ title: Launch That's Design System
 subtitle: Creating a multi-brand design system
 date: '2021-01-10'
 thumb_image: /images/DS Feature Image.png
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: 3 wrieframes in differnt themes
 sections:
   - type: image_section
     image: /images/DS Feature Image.png
