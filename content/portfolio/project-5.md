@@ -1,5 +1,5 @@
 ---
-title: 'Ares, A Multi-Brand Design System'
+title: 'Ares, a Multi-Brand Design System'
 subtitle: A design system that extends to 7 brands
 date: '2021-01-10'
 thumb_image: /images/DS Feature Image.png
