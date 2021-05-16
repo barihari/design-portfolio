@@ -74,7 +74,7 @@ sections:
       designers for the brands they work on.
 
 
-      ### Templates
+      ## Templates
 
 
       With a complete set of components ready to be consumed, the next step is
