@@ -51,6 +51,9 @@ sections:
     type: image_section
     image: /images/DS Spacing and Icons.png
   - content: >
+      ## Components
+
+
       Ares is the parent Design System that contains the main components. Each
       main component is a wireframe crafted with its non-negotiable atoms and
       molecules along with its responsive mobile counterpart. Also, I built it
