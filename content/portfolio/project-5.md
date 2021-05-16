@@ -55,10 +55,6 @@ sections:
       main component is a wireframe crafted with its non-negotiable atoms and
       molecules along with its responsive mobile counterpart. Also, I built it
       with Figma's auto layout feature.
-
-
-      Finally, I shared the Ares library, where it can be extended by all
-      designers for the brands they work on. 
     type: text_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
