@@ -39,7 +39,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/about.jpg
+    image: /images/DS Color Scale.png
   - content: >
       Ares is the parent Design System that contains the main components. Each
       main component is a wireframe crafted with its non-negotiable atoms and
