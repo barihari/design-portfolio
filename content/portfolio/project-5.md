@@ -24,7 +24,7 @@ sections:
     image_alt: Dropdowns showing variants in our custom WordPress page builder.
     width: wide
     caption: An audit of the many variants in our custom WordPress page builder.
-  - image_alt: lorem-ipsum
+  - image_alt: 'Creating '
     caption: lorem-ipsum
     width: wide
     type: image_section
