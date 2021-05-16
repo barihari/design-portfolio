@@ -23,7 +23,7 @@ sections:
     image: /images/DS Page Builder Audit.png
     image_alt: Dropdowns showing variants in our custom WordPress page builder.
     width: wide
-    caption: An audit of the variants in our custom WordPress page builder.
+    caption: An audit of the many variants in our custom WordPress page builder.
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: wide
