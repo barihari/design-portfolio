@@ -1,6 +1,6 @@
 ---
 title: 'Ares, A Multi-Brand Design System'
-subtitle: Creating a multi-brand design system
+subtitle: A design system that extends to 7 brands
 date: '2021-01-10'
 thumb_image: /images/DS Feature Image.png
 thumb_image_alt: 3 wireframes in different color themes
