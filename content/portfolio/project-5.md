@@ -37,7 +37,7 @@ sections:
     type: image_section
     image: /images/DS Audit Comparison.png
   - type: text_section
-    content: "This document quickly became essential as it gave me a holistic view of what was missing or not; when you have to deal with multiple brands, you need to keep things organized.\_\n\nNow that the inventory is done, building the Design System work can start.\n\n## Foundations\n\nWe created a foundation boilerplate that could be duplicated and to be rebranded for each brand.\n\nHere is the boilerplate foundations of Launch That design system we call Ares:\n\n*   Color\n\n*   Type-scale\n\n*   Spacing\n\n*   System Fonts\n"
+    content: "This document quickly became essential as it gave me a holistic view of what was missing or not; when you have to deal with multiple brands, you need to keep things organized.\_\n\nNow that the audit is done, building the Design System work can start.\n\n## Foundations\n\nWe created a foundation boilerplate that could be duplicated and to be rebranded for each brand.\n\nHere is the boilerplate foundations of Launch That design system we call Ares:\n\n*   Color\n\n*   Type-scale\n\n*   Spacing\n\n*   System Fonts\n"
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
