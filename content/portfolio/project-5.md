@@ -62,6 +62,10 @@ sections:
     type: image_section
     image: /images/about.jpg
   - content: >
+      Finally, I shared the Ares library, where it can be extended by all
+      designers for the brands they work on.
+
+
       ### Templates
 
 
