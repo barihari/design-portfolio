@@ -25,7 +25,7 @@ sections:
     width: wide
     caption: An audit of the many variants in our custom WordPress page builder.
   - image_alt: Comparing layouts to identify patterns.
-    caption: "Comparing layouts to identify patterns. \U0001F645\U0001F3FD‍♀️ for the "
+    caption: "Comparing layouts to identify patterns. \U0001F645\U0001F3FD‍♀️ for the hideous layouts."
     width: wide
     type: image_section
     image: /images/DS Patterns Audit.png
