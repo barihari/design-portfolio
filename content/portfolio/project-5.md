@@ -23,7 +23,7 @@ sections:
     image: /images/DS Page Builder Audit.png
     image_alt: Nature Magazine 3
     width: wide
-    caption: An audit of our custom WordPress page builder
+    caption: An audit of our custom WordPress page builder.
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: wide
