@@ -25,7 +25,7 @@ sections:
     width: wide
     caption: An audit of the many variants in our custom WordPress page builder.
   - image_alt: Created layouts to identify patterns.
-    caption: lorem-ipsum
+    caption: Created layouts to identify patterns.
     width: wide
     type: image_section
     image: /images/DS Patterns Audit.png
