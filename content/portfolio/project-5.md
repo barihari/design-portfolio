@@ -63,7 +63,7 @@ sections:
     image: /images/DS Action List Component.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/DS Action List Variants.png
   - content: >
