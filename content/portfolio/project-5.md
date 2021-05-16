@@ -59,7 +59,7 @@ sections:
     type: image_section
     image: /images/DS Action List Component.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: From 2 components I made 147 variarions
     width: wide
     type: image_section
     image: /images/DS Action List Variants.png
