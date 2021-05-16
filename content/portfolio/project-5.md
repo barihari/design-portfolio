@@ -87,6 +87,10 @@ sections:
     image: /images/about.jpg
   - content: "## Documentation\n\nA design system needs to be open and accessible to everyone, so having a platform where each member of the company can read the guidelines and consume the system's content is highly important.\n\nI decided the best starting place for documentation would be in Figma since everyone at the organization has read access. In time, I would love to see our code documented alongside the components. When we get closer to that reality, I plan on moving our documentation from Figma to a more robust documentation platform like Zeroheight.\n\n## Outcomes\n\nThe Ares Design System will always be a work in progress. Since our time with Brad Frost in 2018, we have added 3 more brands to our portfolio, Consumernotice.org, MesotheliomaPrognosis.com, Retireguide.com.\_\n\nWe indeed had our moments of frustration with launching new brands with Ares. But with each time, we got better \U0001F4AA\U0001F3FD .\n\nRetireguide.com was our latest launch. It took us 3 months to build Retireguide's content, marketing strategy, design, and development from scratch. That process would have usually taken 6 months. Our design system decreased our time to launch by 50%.\n\n\_I'm passionate about design systems and could talk about multiple brand design systems for days. If you are interested and would like to know more about my work on Ares, do not hesitate to contact me.\n"
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
