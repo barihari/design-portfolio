@@ -24,7 +24,7 @@ sections:
     image_alt: Dropdowns showing variants in our custom WordPress page builder.
     width: wide
     caption: An audit of the many variants in our custom WordPress page builder.
-  - image_alt: Created layouts to identify patterns.
+  - image_alt: Comparing layouts to identify patterns.
     caption: Created layouts to identify patterns.
     width: wide
     type: image_section
