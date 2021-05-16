@@ -30,7 +30,9 @@ sections:
     type: image_section
     image: /images/DS Patterns Audit.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: >-
+      Comparing layouts to other brands to see what they had in common, what was
+      missing and what could be shared.
     width: wide
     type: image_section
     image: /images/DS Audit Comparison.png
