@@ -60,7 +60,7 @@ sections:
       with Figma's auto layout feature.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: '2 components, a vertical and horizontal direction.'
+    caption: "Action Lists is what we call our card\_component. I made 2 directions, vertical and horizontal."
     width: regular
     type: image_section
     image: /images/DS Action List Component.png
