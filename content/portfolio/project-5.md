@@ -47,7 +47,7 @@ sections:
     image: /images/DS Type-scale.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/DS Spacing and Icons.png
   - content: >
