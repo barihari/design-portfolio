@@ -30,7 +30,7 @@ sections:
     image: /images/DS Patterns Audit.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/DS Audit Comparison.png
   - type: text_section
