@@ -153,7 +153,7 @@ sections:
       top-performing experiences and leverage established best practices and
       benchmarks to set targets and goals.
   - type: image_section
-    image: images/work-book-3.jpg
+    image: /images/Optimization.png
     image_alt: Nature Mockup Magazine 3
     width: wide
   - image_alt: lorem-ipsum
