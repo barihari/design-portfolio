@@ -52,6 +52,10 @@ sections:
 
       So there it hit me. Is there a way to dynamically measure content
       experiences based on users' behaviors?
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
   - type: image_section
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
@@ -77,10 +81,6 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Mockup Magazine
