@@ -156,10 +156,6 @@ sections:
     image: /images/Optimization.png
     image_alt: Nature Mockup Magazine 3
     width: wide
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
   - content: >
       ## Edge cases
 
