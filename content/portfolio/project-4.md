@@ -191,7 +191,7 @@ sections:
 
       >
 
-      > *   Alan Cooper
+      > \-Alan Cooper
 
 
       From personal research, I have noticed that well-designed products have a
