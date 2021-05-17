@@ -187,9 +187,7 @@ sections:
       mental models.
 
 
-      > Widening your target doesn't improve your aim
-
-      >
+      > Widening your target doesn't improve your aim.
 
       >
 
