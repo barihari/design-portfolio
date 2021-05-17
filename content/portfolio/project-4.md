@@ -230,7 +230,7 @@ sections:
       personalization.
 
 
-      And last but not least.
+      And last but not least...
 
 
       ### Technical Feasibility
