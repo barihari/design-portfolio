@@ -1,6 +1,6 @@
 ---
 title: Content Optimization
-subtitle: Editorial Design
+subtitle: Passion Project
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
