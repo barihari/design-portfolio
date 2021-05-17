@@ -134,10 +134,6 @@ sections:
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
     width: wide
-  - type: image_section
-    image: images/work-book-3.jpg
-    image_alt: Nature Mockup Magazine 3
-    width: wide
   - type: text_section
     content: >
       ### Feature 3: Actionable Insights
@@ -156,6 +152,10 @@ sections:
       messaging, and entire customer journeys. Measure and automate the
       top-performing experiences and leverage established best practices and
       benchmarks to set targets and goals.
+  - type: image_section
+    image: images/work-book-3.jpg
+    image_alt: Nature Mockup Magazine 3
+    width: wide
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
