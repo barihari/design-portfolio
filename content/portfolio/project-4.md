@@ -130,18 +130,6 @@ sections:
 
       Change the live site experience by showing dynamic offers or templates,
       firing custom actions, or modifying the site design.
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: text_section
   - type: image_section
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
