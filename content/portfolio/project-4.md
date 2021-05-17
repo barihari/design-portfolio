@@ -31,8 +31,8 @@ sections:
 
       Thanks to big data, I became obsessed with learning how to truly
       understand who our users are and how to use that information to our
-      advantage. (and at the same time wondering if this is all ethical and
-      whatnot.
+      advantage (and at the same time wondering if this is all ethical and
+      whatnot).
 
 
       In 2021, we had a marketing professional, Marie Haynes, speak to us about
