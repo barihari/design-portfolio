@@ -173,6 +173,18 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
 seo:
   type: stackbit_page_meta
   title: Nature Mockup Magazine
