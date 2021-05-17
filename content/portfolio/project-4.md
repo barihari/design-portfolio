@@ -56,6 +56,10 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
   - content: >
       Most personalization tools focus on converting transactional websites by
       surfacing the next best offer to drive the next best action, automating
@@ -131,10 +135,6 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Mockup Magazine
