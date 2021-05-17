@@ -3,7 +3,7 @@ baseURL: /
 params:
   color_scheme: light
   accent_color: green
-  base_font: system-sans
+  base_font: karla
   header:
     type: header
     title: Agency
