@@ -132,12 +132,10 @@ sections:
       ## Feature 2. Automated experiences
 
 
-
       Deploy sophisticated experiences.
 
 
-      ### Rules, Conditions, and Triggers
-
+      #### Rules, Conditions, and Triggers
 
 
       Control actions based on time, visits, user behavior, patterns, and
@@ -145,7 +143,6 @@ sections:
 
 
       #### Engage and React
-
 
 
       Change the live site experience by showing dynamic offers or templates,
