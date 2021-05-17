@@ -110,11 +110,6 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - type: image_section
-    image: /images/Trigger.png
-    image_alt: Nature Mockup Magazine 2
-    width: wide
-    caption: Test Test Test Test
   - content: >-
       ## Lorem ipsum
 
@@ -127,6 +122,11 @@ sections:
 
       - dolor sit amet
     type: text_section
+  - type: image_section
+    image: /images/Trigger.png
+    image_alt: Nature Mockup Magazine 2
+    width: wide
+    caption: Test Test Test Test
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
