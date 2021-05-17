@@ -128,11 +128,28 @@ sections:
     width: wide
     caption: Test Test Test Test
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ## Feature 2. Automated experiences
+
+
+
+      Deploy sophisticated experiences.
+
+
+      ### Rules, Conditions, and Triggers
+
+
+
+      Control actions based on time, visits, user behavior, patterns, and
+      on-site events.
+
+
+      #### Engage and React
+
+
+
+      Change the live site experience by showing dynamic offers or templates,
+      firing custom actions, or modifying the site design.
   - type: image_section
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3
