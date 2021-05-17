@@ -56,17 +56,80 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      Most personalization tools focus on converting transactional websites by
+      surfacing the next best offer to drive the next best action, automating
+      experiences in opt-ins, form submits, signups, registrations, trials,
+      memberships, and subscriptions.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      But unlike transactional websites, content marketing is a long game.
 
 
-      - Lorem ipsum
+      My idea is an end-to-end management system for content-driven businesses.
+      Propel content optimization based on audience, page behavior to drive a
+      continuous user journey. Leverage AI-based content suggestions and build
+      custom experiences by audience, page, channel, campaign, or content.
 
-      - dolor sit amet
+
+      I imagine a tool to be a drag and drop experience where one could create
+      sophisticated audience journeys without any technical effort, such as
+      writing code.
+
+
+      ## What It Do Yo
+
+
+      ### Feature 1. Audience Management
+
+
+      Know who your users are.
+
+
+      #### Segmentation
+
+
+
+      Leverage first-party data, custom segments, and lookalike audiences to
+      target based on profile, content, behavior, device, and inclination.
+
+
+      #### Content Relation
+
+
+      Engage each audience on the most appealing and valuable content based on
+      page attributes, metadata, or URL conditions.
+
+
+      #### Targeting
+
+
+      Target specific audiences with personalized messages, CTAs, event
+      promotions, or newsletter signup forms.
+
+
+      ### Feature 2. Automated experiences
+
+
+      Deploy sophisticated experiences.
+
+
+
+
+      #### Rules, Conditions, and Triggers
+
+
+      Control actions based on time, visits, user behavior, patterns, and
+      on-site events.
+
+
+
+
+      #### Engage and React
+
+
+      Change the live site experience by showing dynamic offers or templates,
+      firing custom actions, or modifying the site design.
     type: text_section
   - type: image_section
     image: /images/Trigger.png
