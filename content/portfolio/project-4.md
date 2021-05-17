@@ -129,7 +129,7 @@ sections:
     caption: Test Test Test Test
   - type: text_section
     content: >
-      ## Feature 2. Automated experiences
+      ### Feature 2. Automated experiences
 
 
       Deploy sophisticated experiences.
