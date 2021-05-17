@@ -173,17 +173,100 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Edge cases
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ### Targeting
 
 
-      - Lorem ipsum
 
-      - dolor sit amet
+      Designing with users in mind can be pretty tricky, especially if you are
+      like me. I often get obsessive with what will work for every user in every
+      context. This has led me to attempt designing systems that suit all users
+      rather than the targeted users or, worse, systems that only serve my
+      mental models.
+
+
+      > Widening your target doesn't improve your aim
+
+      > \-Alan Cooper
+
+
+      From personal research, I have noticed that well-designed products have a
+      sound understanding of who the targeted users are, without being
+      over-engineered.
+
+
+      This is where a persona shines as a helpful tool; it helps create a clear
+      and realistic knowledge of the final user while assisting teams in setting
+      a shared understanding of their user group and building a final product
+      that is user-oriented.
+
+
+
+
+      ### Editorial
+
+
+      Writers will have to write a page multiple times.
+
+      Marketers will have to rethink their internal links strategy…. Unless
+      there is a way to automate that as well…. Hmmm.
+
+
+      ### Google's SERP Algorithm
+
+
+
+      Google is not a fan of duplicated content. If a page is rewritten 3 or 4x
+      for users' engagement, how can Google recognize the original live
+      experience? Is the algorithm advanced enough to determine personalization?
+      Page attributes like metadata and URL structure won't dynamically change,
+      so hopefully, that is enough signals to rank in SERPs.
+
+
+      This tool could be marvelous at personalizing experiences, but it could
+      tank ratings if Google deems it foul play. There isn't enough provided
+      information to determine how Google's algorithm manipulates content
+      personalization.
+
+
+      And last but not least.
+
+
+      ### Technical Feasibility
+
+
+
+      Although I have a background in development, my technical education does
+      not include artificial intelligence (I do want to learn about machine
+      learning and neural networks tho!). I'm not 100% sure how dynamically
+      changing content on a page works on the fly, but personalization tech
+      exists, and many businesses are having success with it.
+
+
+      *   According to the McKinsey & Co's study, 35% of Amazon's consumer
+      purchases come from their personalized recommendations, and 75% of what
+      Netflix viewers watch comes from their algorithm recommendations    
+
+
+      *   According to the Aberdeen Group, personalized emails increase
+      click-through rates by 14% and conversion rates by 10%.     
+
+
+      *   Accordingto Forrester Research, 54% of retailers reported
+      recommendation engines as the key driver of the average order value in
+      customer purchases.
+
+
+      While all of these examples leverage complex algorithm design, massive
+      data sets, and immense compute power, they're nearly invisible to people
+      who use these services, and that's the point. Personalized services add
+      value to the user experience, and when users have better experiences,
+      businesses benefit too. Businesses of all sizes should be thinking about
+      how to personalize their services to make user experiences more efficient,
+      relevant, and valuable.
     type: text_section
 seo:
   type: stackbit_page_meta
