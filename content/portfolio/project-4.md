@@ -110,23 +110,6 @@ sections:
     width: wide
     type: image_section
     image: /images/Segment.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: text_section
-  - type: image_section
-    image: /images/Trigger.png
-    image_alt: Nature Mockup Magazine 2
-    width: wide
-    caption: Test Test Test Test
   - type: text_section
     content: >
       ### Feature 2. Automated experiences
@@ -147,6 +130,23 @@ sections:
 
       Change the live site experience by showing dynamic offers or templates,
       firing custom actions, or modifying the site design.
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
+  - type: image_section
+    image: /images/Trigger.png
+    image_alt: Nature Mockup Magazine 2
+    width: wide
+    caption: Test Test Test Test
   - type: image_section
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3
