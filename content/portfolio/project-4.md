@@ -252,7 +252,7 @@ sections:
       click-through rates by 14% and conversion rates by 10%.
 
 
-      *   Accordingto Forrester Research, 54% of retailers reported
+      *   According to Forrester Research, 54% of retailers reported
       recommendation engines as the key driver of the average order value in
       customer purchases.
 
