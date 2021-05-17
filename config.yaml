@@ -1,7 +1,7 @@
 title: Stackbit Agency Theme
 baseURL: /
 params:
-  color_scheme: light
+  color_scheme: dark
   accent_color: green
   base_font: fraunces
   header:
