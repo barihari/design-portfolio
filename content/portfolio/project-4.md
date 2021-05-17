@@ -169,6 +169,10 @@ sections:
       messaging, and entire customer journeys. Measure and automate the
       top-performing experiences and leverage established best practices and
       benchmarks to set targets and goals.
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Nature Mockup Magazine
