@@ -107,7 +107,6 @@ sections:
       promotions, or newsletter signup forms.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: wide
     type: image_section
     image: /images/Segment.png
