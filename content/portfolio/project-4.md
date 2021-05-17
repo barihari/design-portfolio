@@ -180,7 +180,6 @@ sections:
       ### Targeting
 
 
-
       Designing with users in mind can be pretty tricky, especially if you are
       like me. I often get obsessive with what will work for every user in every
       context. This has led me to attempt designing systems that suit all users
@@ -189,6 +188,10 @@ sections:
 
 
       > Widening your target doesn't improve your aim
+
+      >
+
+      >
 
       > \-Alan Cooper
 
@@ -204,8 +207,6 @@ sections:
       that is user-oriented.
 
 
-
-
       ### Editorial
 
 
@@ -216,7 +217,6 @@ sections:
 
 
       ### Google's SERP Algorithm
-
 
 
       Google is not a fan of duplicated content. If a page is rewritten 3 or 4x
@@ -238,7 +238,6 @@ sections:
       ### Technical Feasibility
 
 
-
       Although I have a background in development, my technical education does
       not include artificial intelligence (I do want to learn about machine
       learning and neural networks tho!). I'm not 100% sure how dynamically
@@ -248,11 +247,11 @@ sections:
 
       *   According to the McKinsey & Co's study, 35% of Amazon's consumer
       purchases come from their personalized recommendations, and 75% of what
-      Netflix viewers watch comes from their algorithm recommendations    
+      Netflix viewers watch comes from their algorithm recommendations
 
 
       *   According to the Aberdeen Group, personalized emails increase
-      click-through rates by 14% and conversion rates by 10%.     
+      click-through rates by 14% and conversion rates by 10%.
 
 
       *   Accordingto Forrester Research, 54% of retailers reported
