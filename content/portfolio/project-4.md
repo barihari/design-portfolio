@@ -56,18 +56,6 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: text_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
@@ -127,6 +115,18 @@ sections:
     image_alt: Nature Mockup Magazine 2
     width: wide
     caption: Test Test Test Test
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
