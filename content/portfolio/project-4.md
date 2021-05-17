@@ -134,7 +134,6 @@ sections:
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
     width: wide
-    caption: Test Test Test Test
   - type: image_section
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3
