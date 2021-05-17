@@ -89,7 +89,6 @@ sections:
       #### Segmentation
 
 
-
       Leverage first-party data, custom segments, and lookalike audiences to
       target based on profile, content, behavior, device, and inclination.
 
@@ -106,30 +105,6 @@ sections:
 
       Target specific audiences with personalized messages, CTAs, event
       promotions, or newsletter signup forms.
-
-
-      ### Feature 2. Automated experiences
-
-
-      Deploy sophisticated experiences.
-
-
-
-
-      #### Rules, Conditions, and Triggers
-
-
-      Control actions based on time, visits, user behavior, patterns, and
-      on-site events.
-
-
-
-
-      #### Engage and React
-
-
-      Change the live site experience by showing dynamic offers or templates,
-      firing custom actions, or modifying the site design.
     type: text_section
   - type: image_section
     image: /images/Trigger.png
