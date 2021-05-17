@@ -56,10 +56,6 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
   - content: >
       Most personalization tools focus on converting transactional websites by
       surfacing the next best offer to drive the next best action, automating
@@ -110,6 +106,10 @@ sections:
       Target specific audiences with personalized messages, CTAs, event
       promotions, or newsletter signup forms.
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
   - type: image_section
     image: /images/Trigger.png
     image_alt: Nature Mockup Magazine 2
