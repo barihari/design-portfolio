@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: A system-minded Product Designer with technical and business backgrounds.
     content: >
-      Hi, I'm Saleena! Currently leading a multi-brand design system at Launch
-      That.
+      Hi, I'm Saleena! Currently leading a multi-brand design system at [Launch
+      That](https://www.launchthat.com/).
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
