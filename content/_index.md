@@ -40,9 +40,8 @@ sections:
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: |
+      *Contact me to hire, for speaking events or to say hello!*
     actions:
       - type: action
         label: Let's start
