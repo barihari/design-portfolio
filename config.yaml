@@ -23,6 +23,7 @@ params:
         label: Contact
         url: /contact/
         style: button
+        new_window: true
   footer:
     type: footer
     content: >-
