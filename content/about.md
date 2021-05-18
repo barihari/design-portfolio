@@ -7,7 +7,6 @@ sections:
     image_alt: Our team in the meeting room
     subtitle: The Designer From the Bronx
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
