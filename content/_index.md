@@ -41,6 +41,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: |
+      Let’s build something great together.
+
       *Contact me to hire, for speaking events or to say hello!*
     actions:
       - type: action
