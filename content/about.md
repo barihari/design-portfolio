@@ -48,7 +48,7 @@ sections:
       position myself in the right place to succeed.
 
 
-      The concern with the world has isn't a lack of scholars, but a lack of
+      > The concern with the world has isn't a lack of scholars, but a lack of
       self-aware people, possessing emotional intelligence.
 
 
