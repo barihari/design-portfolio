@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: A system-minded Product Designer with a technical and business background.
+    title: >-
+      A systems and user-minded designer with a background in product strategy &
+      development.
     content: >
       Hi, I'm Saleena! Currently leading a multi-brand design system at [Launch
       That](https://www.launchthat.com/).
