@@ -40,15 +40,6 @@ sections:
           Commitment to human centered design requires distrupting the status
           quo.
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
