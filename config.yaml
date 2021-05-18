@@ -26,7 +26,7 @@ params:
         new_window: true
   footer:
     type: footer
-    content: 'A Jamstack site developed and design by Saleena. '
+    content: A Jamstack site developed and design by Saleena Beharry.
     has_social: true
     social_links:
       - type: action
