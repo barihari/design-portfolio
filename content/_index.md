@@ -46,7 +46,7 @@ sections:
     actions:
       - type: action
         label: Email Me
-        url: "mailto:saleena.beahrry@gmail.com\t"
+        url: "mailto:saleena.beharry@gmail.com\t"
         style: button
         new_window: true
     image: images/cta.svg
