@@ -41,8 +41,8 @@ sections:
     section_id: cta
     title: Open to Opportunities!
     content: >
-      Let’s build something great together. Contact me to hire, for speaking
-      events or to say hello!. 
+      Let’s build something great together. Contact me at
+      saleena.beharry@gmail.com to hire, for speaking events or to say hello!.
     actions:
       - type: action
         label: Email Me
