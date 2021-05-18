@@ -46,7 +46,7 @@ sections:
     actions:
       - type: action
         label: Email Me
-        url: /contact
+        url: "mailto:name@email.com\t"
         style: button
     image: images/cta.svg
     image_alt: Illustration
