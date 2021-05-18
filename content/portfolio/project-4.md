@@ -55,6 +55,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/DS Screenshot Slack.png
   - content: >
       Most personalization tools focus on converting transactional websites by
       surfacing the next best offer to drive the next best action, automating
