@@ -30,14 +30,6 @@ sections:
           The purpose of design is to solve problems. Exclusive is one of those
           problems.
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
       - type: grid_item
         title: >-
           Good design accounts for our abilities, but great design accounts for
