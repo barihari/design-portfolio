@@ -50,7 +50,7 @@ params:
         label: Dribbble
         url: 'https://dribbble.com/'
         style: icon
-        icon: linkedin
+        icon: github
         new_window: true
   domain: 'https://design-portfolio-c63cb.netlify.app'
 taxonomies:
