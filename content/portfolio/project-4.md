@@ -111,7 +111,7 @@ sections:
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
-    image: /images/DS Segment Funnels.png
+    image: /images/majestic-basil.png
   - type: text_section
     content: >
       ### Feature 2. Automated experiences
