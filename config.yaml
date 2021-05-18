@@ -52,12 +52,6 @@ params:
         style: icon
         icon: dribbble
         new_window: true
-      - type: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon: linkedin
-        new_window: true
   domain: 'https://design-portfolio-c63cb.netlify.app'
 taxonomies:
   stub: stub
