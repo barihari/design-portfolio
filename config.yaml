@@ -16,10 +16,6 @@ params:
         url: /
         style: link
       - type: action
-        label: Work
-        url: /portfolio/
-        style: link
-      - type: action
         label: Journal
         url: /blog/
         style: link
