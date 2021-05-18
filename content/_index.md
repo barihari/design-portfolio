@@ -5,10 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: A system-minded Product Designer with a technical and business background.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      Hi, I'm Saleena! 
+
+      Currently leading a multi-brand design system at Launch That. 
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
