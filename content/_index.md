@@ -39,7 +39,7 @@ sections:
         image: images/service-3.svg
   - type: cta_section
     section_id: cta
-    title: Open to Work
+    title: Open to Hire
     content: >
       Let’s build something great together. Contact me to hire, for speaking
       events or to say hello!. 
