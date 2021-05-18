@@ -15,6 +15,22 @@ sections:
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
       turpis et nisi fermentum accumsan.
     subtitle: The Designer From the Bronx
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: grid_section
     section_id: team
     title: The Team
@@ -114,22 +130,6 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   type: stackbit_page_meta
   title: About Us
