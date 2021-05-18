@@ -25,7 +25,8 @@ sections:
 
 
       I became familiar with personalized web experience when we integrated
-      tracking tools like Woopra and Mixpanel into our tech stack in 2019.
+      tracking tools like [Woopra](https://www.woopra.com/) and
+      [Mixpanel](https://mixpanel.com/) into our tech stack in 2019.
 
 
       Thanks to big data, I became obsessed with learning how to truly
@@ -34,11 +35,12 @@ sections:
       whatnot).
 
 
-      In 2021, we had a marketing professional, Marie Haynes, speak to us about
-      the latest SEO trends. During her talk, she mentioned how 90% of users
-      never scroll to the end of the page; thus, a good content marketing
-      strategy is to structure the first few paragraphs to answer what the user
-      is searching for.
+      In 2021, we had a marketing professional, [Marie
+      Haynes](https://twitter.com/marie_haynes?lang=en), speak to us about the
+      latest SEO trends. During her talk, she mentioned how 90% of users never
+      scroll to the end of the page; thus, a good content marketing strategy is
+      to structure the first few paragraphs to answer what the user is searching
+      for.
 
 
       A good strategy indeed, but keyword stuffing while providing the answer to
