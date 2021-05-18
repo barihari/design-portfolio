@@ -20,7 +20,7 @@ params:
         url: /about/
         style: link
       - type: action
-        label: Contact
+        label: Resume
         url: /contact/
         style: button
         new_window: true
