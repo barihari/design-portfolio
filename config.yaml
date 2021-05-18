@@ -38,7 +38,7 @@ params:
         label: Twitter
         url: 'https://twitter.com/'
         style: icon
-        icon: github
+        icon: instagram
         new_window: true
       - type: action
         label: Instagram
