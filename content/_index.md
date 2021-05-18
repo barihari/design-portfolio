@@ -45,7 +45,7 @@ sections:
       events or to say hello!*
     actions:
       - type: action
-        label: Email me
+        label: Email Me
         url: /contact
         style: button
     image: images/cta.svg
