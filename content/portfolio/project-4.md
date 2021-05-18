@@ -133,7 +133,7 @@ sections:
       Change the live site experience by showing dynamic offers or templates,
       firing custom actions, or modifying the site design.
   - type: image_section
-    image: /images/Trigger.png
+    image: /images/DS Triggers.png
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
