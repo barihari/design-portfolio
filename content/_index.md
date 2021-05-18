@@ -44,7 +44,7 @@ sections:
       *Contact me to hire, for speaking events or to say hello!*
     actions:
       - type: action
-        label: Email
+        label: Email me
         url: /contact
         style: button
     image: images/cta.svg
