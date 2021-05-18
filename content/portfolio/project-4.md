@@ -51,7 +51,7 @@ sections:
 
       So there it hit me. Is there a way to dynamically measure content
       experiences based on users' behaviors?
-  - image_alt: lorem-ipsum
+  - image_alt: My Eureka
     caption: lorem-ipsum
     width: regular
     type: image_section
