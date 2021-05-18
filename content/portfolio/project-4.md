@@ -51,7 +51,7 @@ sections:
 
       So there it hit me. Is there a way to dynamically measure content
       experiences based on users' behaviors?
-  - image_alt: 'Screenshot of a slack message '
+  - image_alt: Screenshot of a slack message o
     caption: "My Eureka! moment \U0001F4A1"
     width: regular
     type: image_section
