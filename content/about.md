@@ -5,15 +5,6 @@ sections:
   - type: content_section
     image: images/about.jpg
     image_alt: Our team in the meeting room
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
     subtitle: The Designer From the Bronx
   - section_id: lorem-ipsum
     title: lorem-ipsum
