@@ -111,7 +111,7 @@ sections:
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
-    image: /images/Segment.png
+    image: /images/DS Segments.png
   - type: text_section
     content: >
       ### Feature 2. Automated experiences
