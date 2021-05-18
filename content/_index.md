@@ -16,7 +16,7 @@ sections:
     title: Recent Work
     subtitle: Explore case studies
     layout_style: tiles
-    projects_number: 3
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
