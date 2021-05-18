@@ -35,14 +35,6 @@ sections:
           Good design accounts for our abilities, but great design accounts for
           our limitations.
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
       - type: grid_item
         title: >-
           Commitment to human centered design requires distrupting the status
