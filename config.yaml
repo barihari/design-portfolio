@@ -36,7 +36,7 @@ params:
     social_links:
       - type: action
         label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://www.linkedin.com/in/saleenabeharry/'
         style: icon
         icon: linkedin
         new_window: true
