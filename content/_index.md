@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     section_id: services
     title: A Few Values
-    subtitle: What we do
+    subtitle: Anything worth doing is worth doing right.
     col_number: three
     grid_items:
       - type: grid_item
