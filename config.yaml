@@ -8,7 +8,7 @@ params:
     type: header
     title: Agency
     logo: /images/Saleena Beharry.svg
-    logo_alt: Agency logo
+    logo_alt: Saleena Beharry logo
     has_nav: true
     nav_links:
       - type: action
