@@ -47,7 +47,7 @@ sections:
       - type: action
         label: Email Me
         url: 'mailto:saleena.beharry@gmail.com?Subject=Hey%20Saleena'
-        style: button
+        style: link
         new_window: true
     image: images/cta.svg
     image_alt: Illustration
