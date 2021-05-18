@@ -7,9 +7,7 @@ sections:
     title: >-
       A systems and user-minded designer with a background in product strategy &
       development.
-    content: >
-      Hi, I'm Saleena! Currently leading a multi-brand design system at [Launch
-      That](https://www.launchthat.com/).
+    content: "Hi, I'm Saleena \U0001F44B\U0001F3FD Currently leading a multi-brand design system at [Launch That](https://www.launchthat.com/).\n"
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
