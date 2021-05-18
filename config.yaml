@@ -42,7 +42,7 @@ params:
         new_window: true
       - type: action
         label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/bari_hari/'
         style: icon
         icon: instagram
         new_window: true
