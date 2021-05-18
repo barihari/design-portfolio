@@ -48,7 +48,7 @@ params:
         new_window: true
       - type: action
         label: Dribbble
-        url: 'https://dribbble.com/'
+        url: 'https://github.com/BariHari'
         style: icon
         icon: github
         new_window: true
