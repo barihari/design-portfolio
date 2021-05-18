@@ -49,6 +49,13 @@ sections:
         url: 'mailto:saleena.beharry@gmail.com?Subject=Hey%20Saleena'
         style: link
         new_window: true
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
