@@ -14,16 +14,16 @@
       {{ $project_len := len $projects_recent }}
       {{ range $project_idx, $project := $projects_recent }}
         {{ if and (and (eq $project_idx (sub $project_len 1)) $section.view_all_label) $section.view_all_url }}
-        <!-- <article class="cell project-card">
+        <article class="cell project-card">
           <a href="{{ $section.view_all_url | relURL }}" class="project-card__view-all">
             {{ if $project.Params.thumb_image }}
             <div class="project-card__image">
               <img src="{{ $project.Params.thumb_image | relURL }}" alt="{{ $project.Params.thumb_image_alt }}" />
             </div>
             {{ end }}
-            <!-- <span class="project-card__button">{{ $section.view_all_label }}</span> -->
+            <span class="project-card__button">{{ $section.view_all_label }}</span>
           </a>
-        </article> -->
+        </article>
         {{ else }}
           {{ $include_dict := dict "project_page" $project }}
           {{ partial "portfolio_item.html" $include_dict }}
