@@ -45,7 +45,6 @@ sections:
       saleena.beharry@gmail.com to hire, for speaking events or to say hello!.
     actions:
       - type: action
-        url: 'mailto:saleena.beharry@gmail.com?Subject=Hey%20Saleena'
         style: link
         new_window: true
     image: images/cta.svg
