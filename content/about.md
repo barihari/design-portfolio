@@ -1,5 +1,5 @@
 ---
-title: My Story
+title: 'My Story: The Designer From the Bronx'
 hide_title: false
 sections:
   - type: content_section
