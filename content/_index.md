@@ -48,6 +48,7 @@ sections:
         label: Email Me
         url: "mailto:saleena.beahrry@gmail.com\t"
         style: button
+        new_window: true
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
