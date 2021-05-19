@@ -3,7 +3,6 @@ title: My Story
 hide_title: false
 sections:
   - type: content_section
-    image: images/about.jpg
     image_alt: Our team in the meeting room
     subtitle: The Designer From the Bronx
   - section_id: lorem-ipsum
