@@ -220,7 +220,7 @@ seo:
     - name: 'twitter:title'
       value: Redesign Site Navigation
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: Displaying items more effectively & systematically.
     - name: 'twitter:image'
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
