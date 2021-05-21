@@ -86,17 +86,17 @@ sections:
 
       I encourage them to have the humility to scale back to a well-defined
       role, work on the thing they are best at and enjoy the most. I hope to
-      inspire graduates so that their ambitions aren't to sell out to a hefty
+      stimulate graduates so that their ambitions aren't to sell out to a hefty
       paycheck.
 
 
-      I give speeches to kids at school as well. I urge students to use computer
-      science to amplify their impact on the world ethnically.
-
-      Indeed, "learn to code" has become part of a larger trend whereby
-      education (K–12 and college) is reduced to job training. The rationale for
-      computer science education is mainly about employment or entrepreneurship,
-      it seems.
+      I give [speeches to young
+      students](https://www.linkedin.com/pulse/next-generation-pipeline-coders-saleena-beharry/)
+      at elementary schools as well. I urge students to use computer science to
+      amplify their impact on the world ethnically. Indeed, "learn to code" has
+      become part of a larger trend whereby education (K–12 and college) is
+      reduced to job training. The rationale for computer science education is
+      mainly about employment or entrepreneurship, it seems.
 
 
       Learning to program a computer is a valuable intellectual pursuit, a
@@ -107,11 +107,11 @@ sections:
       high-profile company because of their fancy perks.
 
 
-      My self-awareness conversations sources in the falsehood environment I
-      grew up in, the expectations from my parents, and the "hood life." Being
-      honest with myself is one of the most important traits to master when it
-      came to making my success, and I feel a huge responsibility to share that
-      lesson.
+      My self-awareness is predicate from the "keeping up with the Joneses"
+      environment I grew up in, the expectations from my parents, and the rash
+      "hood life." Being honest with myself is one of the most important traits
+      to master when it came to making my success, and I feel a huge
+      responsibility to share that lesson.
 
 
       Self-awareness never ceases to exist, and there is always something to be
