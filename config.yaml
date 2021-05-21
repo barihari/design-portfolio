@@ -22,7 +22,7 @@ params:
       - type: action
         label: Resume
         url: >-
-          https://drive.google.com/drive/u/0/folders/19VtJllQjMokHg6bndwTRXYf4P4EF4k_B
+          https://drive.google.com/file/d/1FXIpf3wZ-7Y_DbALNzV_dW6sXKTvGaQz/view?usp=sharing
         style: button
         new_window: true
   footer:
