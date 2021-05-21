@@ -9,6 +9,9 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
+      ## It was all a dream, I used to read Word Up! magazine....
+
+
       Every story has a beginning. Mine starts with my parents.
 
 
@@ -65,8 +68,11 @@ sections:
       Front-End Developer, Product Designer, and now Design System Lead.
 
 
-      When I'm not designing, I volunteer to give speeches to recent bootcamp
-      graduates to help guide their career paths.
+      ## When I'm not designing...
+
+
+      I volunteer my time to give speeches to recent bootcamp graduates to help
+      guide their career paths.
 
 
       Bootcamps create a significant shift in mindset all at once. And frankly,
