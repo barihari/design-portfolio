@@ -3,7 +3,7 @@ title: Content Optimization
 subtitle: 'Passion Project, Business Intelligence'
 date: '2020-05-10'
 thumb_image: /images/spectacular-amaranth.png
-thumb_image_alt: 'Wireframes of web mockups '
+thumb_image_alt: Wireframes of web components linked together
 sections:
   - type: image_section
     image: /images/magical-spinach.png
