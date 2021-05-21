@@ -40,11 +40,11 @@ sections:
 
 
       I like to think Apple was my informal liberal arts education. At
-      [Apple](https://www.apple.com/), I discovered and practiced UX. They judge
-      the success of their work not by everything they put into it but by
-      everything the user gets out of it. Apple has given me some of the most
-      important people in my life, and I'm literally a better person because of
-      them.
+      [Apple](https://www.apple.com/retail/grandcentral/), I discovered and
+      practiced UX. They judge the success of their work not by everything they
+      put into it but by everything the user gets out of it. Apple has given me
+      some of the most important people in my life, and I'm literally a better
+      person because of them.
 
 
       After gaining some success at Apple, I became self-aware of my true
@@ -56,9 +56,10 @@ sections:
       self-aware people, possessing emotional intelligence.
 
 
-      I enrolled myself at UX Bootcamp then abruptly realized I couldn't break
-      into the tech industry without knowing code. Being ambitious and
-      overzealous, I enrolled myself in a 12-week Full-Stack coding bootcamp.
+      I enrolled myself at a [UX Bootcamp](https://www.thinkful.com/) then
+      abruptly realized I couldn't break into the tech industry without knowing
+      code. Being ambitious and overzealous, I enrolled myself in a 12-week
+      Full-Stack [coding bootcamp at UCF](https://bootcamp.ce.ucf.edu/coding/).
       The course was challenging, bridging logic and computer science concepts
       at a fast pace. I learned more code than I needed to know for design work.
 
