@@ -16,7 +16,7 @@ sections:
       How to audit existing brands with users, editors, content and goals in
       mind. 
     width: regular
-    image: /images/DS Process.png
+    image: /images/Ares Process.png
   - type: text_section
     content: "I started the audit by documenting the UI of the component and the possible ways the Editorial team could build a component in our custom page builder.\n\n#### Questions I asked along the way:\n\n*   Does the editorial team use this component to communicate content?\_\n\n*   Is this component frequently used, or is it a one-off variant?\n\n*   Does this component help funnel the user to a goal?\n\n*   Does the Marketing team need to track this component for KPIs?\_\n\n*   If so, what are the jsclicks events, and are they aligned correctly?\_\n\n*   Are tracked events correctly routed to Salesforce, Mixpanel, and Google Analytics?\n\nI used a simple Figma file to place screenshots of every combination of modifiers, variants, and layouts our page builder would allow me to build. \n"
   - type: image_section
