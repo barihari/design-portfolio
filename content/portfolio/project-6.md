@@ -6,7 +6,7 @@ thumb_image: /images/charming-petunia.png
 thumb_image_alt: Annuity.org redesign menu
 sections:
   - type: image_section
-    image: /images/Annuity Menu Feature Image.png
+    image: /images/best-coriander.png
     image_alt: Annuity.org redesign menu
     width: wide
   - type: text_section
