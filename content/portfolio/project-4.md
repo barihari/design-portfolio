@@ -163,7 +163,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Content Optimization
-  description: This is the sample project description
+  description: 'Passion Project, Business Intelligence'
   extra:
     - name: 'og:type'
       value: website
