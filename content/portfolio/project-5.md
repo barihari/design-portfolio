@@ -49,7 +49,7 @@ sections:
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
-    image: /images/DS Spacing and Icons.png
+    image: /images/Ares Spacing and Icons.png
   - content: >
       ## Components
 
