@@ -1,5 +1,5 @@
 ---
-title: Annuity.org's Navigation
+title: Redesign Annuity.org's Navigation
 subtitle: Displaying items more effectively & systematically.
 date: '2021-02-06'
 thumb_image: /images/charming-petunia.png
