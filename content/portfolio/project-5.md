@@ -41,7 +41,7 @@ sections:
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
-    image: /images/DS Color Scale.png
+    image: /images/Ares Color Scale.png
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
