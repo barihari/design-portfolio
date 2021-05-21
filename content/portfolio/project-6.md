@@ -222,7 +222,7 @@ seo:
     - name: 'twitter:description'
       value: Displaying items more effectively & systematically.
     - name: 'twitter:image'
-      value: images/work-photography-magazine-1.jpg
+      value: /_static/app-assets/Site%20Navigation%20Feature%20Image.png
       relativeUrl: true
 layout: project
 ---
