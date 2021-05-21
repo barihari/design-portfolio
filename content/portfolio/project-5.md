@@ -68,7 +68,7 @@ sections:
     caption: 'From 2 components, I made 148 variants.'
     width: wide
     type: image_section
-    image: /images/DS Action List Variants.png
+    image: /images/Ares Action List Variants.png
   - content: >
       Finally, I shared the Ares library, where it can be extended by all
       designers for the brands they work on.
