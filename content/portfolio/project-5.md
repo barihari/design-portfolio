@@ -45,7 +45,7 @@ sections:
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
-    image: /images/DS Type-scale.png
+    image: /images/Ares Type-scale.png
   - image_alt: lorem-ipsum
     width: wide
     type: image_section
