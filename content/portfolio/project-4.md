@@ -172,7 +172,7 @@ seo:
       value: Content Optimization
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Passion Project, Business Intelligence'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/spectacular-amaranth.png
