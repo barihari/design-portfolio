@@ -209,7 +209,7 @@ seo:
       value: Subtle
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: Displaying items more effectively & systematically
       keyName: property
     - name: 'og:image'
       value: images/work-photography-magazine-1.jpg
