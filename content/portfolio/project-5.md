@@ -98,7 +98,7 @@ sections:
     type: text_section
 seo:
   type: stackbit_page_meta
-  title: Nature Magazine
+  title: 'Ares, a Multi-Brand Design System'
   description: This is the sample project description
   extra:
     - name: 'og:type'
