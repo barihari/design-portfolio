@@ -119,7 +119,7 @@ seo:
     - name: 'twitter:title'
       value: 'Ares, a Multi-Brand Design System'
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Ares, a Multi-Brand Design System'
     - name: 'twitter:image'
       value: images/work-magazine-1.jpg
       relativeUrl: true
