@@ -128,7 +128,7 @@ sections:
     caption: New site map.
     width: wide
     type: image_section
-    image: /images/Site Redesign Site Map.png
+    image: /images/Site Redesign New Site Map.png
   - content: >
       They connected on my idea of telling a story through the navigation.
       Specifically, they liked how narrative subtitles could provide a mental
