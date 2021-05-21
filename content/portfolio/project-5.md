@@ -108,7 +108,7 @@ seo:
       value: 'Ares, a Multi-Brand Design System'
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: A design system that extends to 7 brands.
       keyName: property
     - name: 'og:image'
       value: images/work-magazine-1.jpg
