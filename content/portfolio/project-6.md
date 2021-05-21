@@ -103,7 +103,7 @@ sections:
     caption: New and updated content may capture users' attention.
     width: regular
     type: image_section
-    image: /images/AN FAB Chips.png
+    image: /images/important-steel.png
   - content: >
       ### The Hub
 
