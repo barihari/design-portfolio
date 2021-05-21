@@ -206,7 +206,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Subtle
+      value: Redesign Site Navigation
       keyName: property
     - name: 'og:description'
       value: Displaying items more effectively & systematically
