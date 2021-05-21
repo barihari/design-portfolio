@@ -209,7 +209,7 @@ seo:
       value: Redesign Site Navigation
       keyName: property
     - name: 'og:description'
-      value: Displaying items more effectively & systematically
+      value: Displaying items more effectively & systematically.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Site%20Navigation%20Feature%20Image.png
