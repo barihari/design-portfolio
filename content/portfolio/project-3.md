@@ -4,11 +4,6 @@ subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image_alt: The Book preview
 sections:
-  - type: image_section
-    image: images/work-book-cover-1.jpg
-    image_alt: The Book 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
