@@ -7,7 +7,7 @@ thumb_image_alt: Wireframes of web components linked together
 sections:
   - type: image_section
     image: /images/magical-spinach.png
-    image_alt: Nature Mockup Magazine 1
+    image_alt: Wireframes of web components linked together
     width: wide
   - type: text_section
     content: >
