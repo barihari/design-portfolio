@@ -43,9 +43,9 @@ sections:
       literally a better person because of them.
 
 
-      After gaining some sucess at Apple, I became self-aware of my true nature.
-      I decided to adjust my actions to match my ambitions, put in the work, and
-      position myself in the right place to succeed.
+      After gaining some success at Apple, I became self-aware of my true
+      nature. I decided to adjust my actions to match my ambitions, put in the
+      work, and position myself in the right place to succeed.
 
 
       > The concern with the world has isn't a lack of scholars, but a lack of
