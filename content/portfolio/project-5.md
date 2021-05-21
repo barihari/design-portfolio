@@ -121,7 +121,7 @@ seo:
     - name: 'twitter:description'
       value: 'Ares, a Multi-Brand Design System'
     - name: 'twitter:image'
-      value: images/work-magazine-1.jpg
+      value: /_static/app-assets/DS%20Feature%20Image.png
       relativeUrl: true
 layout: project
 ---
