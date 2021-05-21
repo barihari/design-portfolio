@@ -63,7 +63,7 @@ sections:
     caption: "Action Lists is what we call our card\_component. I made 2 components, a vertical and horizontal direction."
     width: regular
     type: image_section
-    image: /images/DS Action List Component.png
+    image: /images/Ares Action List Component.png
   - image_alt: lorem-ipsum
     caption: 'From 2 components, I made 148 variants.'
     width: wide
