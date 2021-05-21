@@ -99,7 +99,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'Ares, a Multi-Brand Design System'
-  description: This is the sample project description
+  description: A design system that extends to 7 brands
   extra:
     - name: 'og:type'
       value: website
