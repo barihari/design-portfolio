@@ -39,11 +39,12 @@ sections:
       or Apple found me.
 
 
-      I like to think Apple was my informal liberal arts education. At Apple, I
-      discovered and practiced UX. They judge the success of their work not by
-      everything they put into it but by everything the user gets out of it.
-      Apple has given me some of the most important people in my life, and I'm
-      literally a better person because of them.
+      I like to think Apple was my informal liberal arts education. At
+      [Apple](https://www.apple.com/), I discovered and practiced UX. They judge
+      the success of their work not by everything they put into it but by
+      everything the user gets out of it. Apple has given me some of the most
+      important people in my life, and I'm literally a better person because of
+      them.
 
 
       After gaining some success at Apple, I became self-aware of my true
