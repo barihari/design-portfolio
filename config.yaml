@@ -6,7 +6,7 @@ params:
   base_font: karla
   header:
     type: header
-    title: Saleena Beharry
+    title: Saleena Beharry Portfolio
     logo: /images/Saleena Beharry.svg
     logo_alt: Saleena Beharry logo
     has_nav: true
