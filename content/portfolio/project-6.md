@@ -212,7 +212,7 @@ seo:
       value: Displaying items more effectively & systematically
       keyName: property
     - name: 'og:image'
-      value: images/work-photography-magazine-1.jpg
+      value: /_static/app-assets/Site%20Navigation%20Feature%20Image.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
