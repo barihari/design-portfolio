@@ -162,7 +162,7 @@ sections:
     type: text_section
 seo:
   type: stackbit_page_meta
-  title: Nature Mockup Magazine
+  title: Content Optimization
   description: This is the sample project description
   extra:
     - name: 'og:type'
