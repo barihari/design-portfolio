@@ -18,7 +18,7 @@ sections:
     image: /images/Site Orginal Main Menu.png
   - type: text_section
     content: >
-      ## Problem Pt 2: Buy-In
+      ## Problem 2: Buy-In
 
 
       Our organization is a cross-functional team, from content writers to
