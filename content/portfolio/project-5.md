@@ -105,7 +105,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Magazine
+      value: 'Ares, a Multi-Brand Design System'
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
