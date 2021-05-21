@@ -200,7 +200,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Redesign Site Navigation
-  description: This is the sample project description
+  description: Displaying items more effectively & systematically.
   extra:
     - name: 'og:type'
       value: website
