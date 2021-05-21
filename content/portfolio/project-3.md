@@ -47,7 +47,6 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/scientific-olive.png
 seo:
   type: stackbit_page_meta
   title: The Book
