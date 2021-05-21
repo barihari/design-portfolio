@@ -117,7 +117,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nature Magazine
+      value: 'Ares, a Multi-Brand Design System'
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
