@@ -5,6 +5,7 @@ sections:
   - type: content_section
     image_alt: Our team in the meeting room
     subtitle: The Designer From the Bronx
+    image: /images/About Profile Feature.png
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
