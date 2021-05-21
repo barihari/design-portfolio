@@ -183,7 +183,7 @@ seo:
     - name: 'twitter:title'
       value: Nature Mockup Magazine
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Passion Project, Business Intelligence'
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true
