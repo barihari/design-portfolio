@@ -3,7 +3,7 @@ title: Annuity.org's Navigation
 subtitle: Displaying items more effectively & systematically.
 date: '2021-02-06'
 thumb_image: /images/charming-petunia.png
-thumb_image_alt: Annuity.org redesign menu
+thumb_image_alt: Wireframe of a mega menu
 sections:
   - type: image_section
     image: /images/best-coriander.png
