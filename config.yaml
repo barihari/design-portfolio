@@ -7,7 +7,7 @@ params:
   header:
     type: header
     title: Saleena Beharry Portfolio
-    logo: /images/Saleena Beharry.svg
+    logo: /images/great-zebra.svg
     logo_alt: Saleena Beharry logo
     has_nav: true
     nav_links:
