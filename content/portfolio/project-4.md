@@ -185,7 +185,7 @@ seo:
     - name: 'twitter:description'
       value: 'Passion Project, Business Intelligence'
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: /_static/app-assets/spectacular-amaranth.png
       relativeUrl: true
 layout: project
 ---
