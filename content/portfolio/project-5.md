@@ -111,7 +111,7 @@ seo:
       value: A design system that extends to 7 brands.
       keyName: property
     - name: 'og:image'
-      value: images/work-magazine-1.jpg
+      value: /_static/app-assets/DS%20Feature%20Image.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
