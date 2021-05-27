@@ -118,11 +118,10 @@ sections:
     type: image_section
     image: /images/AN Old Site Map.png
   - content: >
-      After that meeting, we set up more meetings with team leads across the
-      organization to talk them through what we wanted to do and how they could
-      support. It lead to brainstorming sessions with marketing, content,
-      development, and design to build from my mockups. A new site map emerged
-      with "hub pages".
+      We set up more meetings with team leads across the organization to talk
+      them through what we wanted to do and how they could support. It lead to
+      brainstorming sessions with marketing, content, development, and design to
+      build from my mockups. A new site map emerged with "hub pages".
     type: text_section
   - image_alt: New site map
     caption: New site map.
