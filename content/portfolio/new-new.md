@@ -187,4 +187,5 @@ seo:
       value: /_static/app-assets/spectacular-amaranth.png
       relativeUrl: true
 layout: project
+thumb_image: /images/magical-spinach.png
 ---
