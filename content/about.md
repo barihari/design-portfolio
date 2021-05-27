@@ -65,9 +65,9 @@ sections:
 
 
       Within 3 weeks of completing the coding bootcamp, I received an offer from
-      Launch That as an intern dev. As an intern, imposter syndrome dawn upon
-      me, but I trusted myself through the process and moved up the ranks to
-      Front-End Developer, Product Designer, and now Design System Lead.
+      Launch That as an intern developer. As an intern, imposter syndrome dawn
+      upon me, but I trusted myself through the process and moved up the ranks
+      to Front-End Developer, Product Designer, and now Design System Lead.
 
 
       ## When I'm not designing...
@@ -107,8 +107,8 @@ sections:
       high-profile company because of their fancy perks.
 
 
-      My self-awareness is predicate from the "keeping up with the Joneses"
-      environment I grew up in, the expectations from my parents, and the rash
+      My self-awareness is predicated on the "keeping up with the Joneses"
+      environment I grew up in - the expectations from my parents, and the rash
       "hood life." Being honest with myself is one of the most important traits
       to master when it came to making my success, and I feel a huge
       responsibility to share that lesson.
