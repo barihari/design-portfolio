@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     image_alt: Our team in the meeting room
-    subtitle: 'Just a kid from the Bronx, trying to find their truth.'
+    subtitle: 'Just a kid from the Bronx, trying to find her truth.'
     image: /images/About Profile Feature.png
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
