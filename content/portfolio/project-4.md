@@ -10,49 +10,7 @@ sections:
     image_alt: Wireframes of web components linked together
     width: wide
   - type: text_section
-    content: >
-      Have you ever met a stranger and instantly hit it off? They're interested
-      in all the same things you are, the conversation flows easily, and you
-      feel like you've been friends for years…
-
-
-      Such situations might not manifest themselves every day, but we can all
-      agree that it's pretty awesome when they do.
-
-
-      So what if you could make your website into the equivalent of that
-      stranger? That's the allure of personalized web experiences.
-
-
-      I became familiar with personalized web experience when we integrated
-      tracking tools like [Woopra](https://www.woopra.com/) and
-      [Mixpanel](https://mixpanel.com/) into our tech stack in 2019.
-
-
-      Thanks to big data, I became obsessed with learning how to truly
-      understand who our users are and how to use that information to our
-      advantage (and at the same time wondering if this is all ethical and
-      whatnot).
-
-
-      In 2021, we had a marketing professional, [Marie
-      Haynes](https://twitter.com/marie_haynes?lang=en), speak to us about the
-      latest SEO trends. During her talk, she mentioned how 90% of users never
-      scroll to the end of the page; thus, a good content marketing strategy is
-      to structure the first few paragraphs to answer what the user is searching
-      for.
-
-
-      A good strategy indeed, but keyword stuffing while providing the answer to
-      their SERP query in the first 3 paragraphs is a complex solution to scale
-      across thousands of pages for 7 uniquely different brands. Our content
-      writers work extremely hard to create engaging long-form content while our
-      marketing team finds opportunities in the content to place internal links
-      to funnel users.
-
-
-      So there it hit me. Is there a way to dynamically measure content
-      experiences based on users' behaviors?
+    content: "Have you ever met a stranger and instantly hit it off? They're interested in all the same things you are, the conversation flows easily, and you feel like you've been friends for years…\n\nSuch situations might not manifest themselves every day, but we can all agree that it's pretty awesome when they do.\n\nSo what if you could make your website into the equivalent of that stranger? That's the allure of personalized web experiences.\n\nI became familiar with personalized web experience when we integrated tracking tools like [Woopra](https://www.woopra.com/) and [Mixpanel](https://mixpanel.com/) into our tech stack in 2019.\n\nThanks to big data, I became obsessed with learning how to truly understand who our users are and how to use that information to our advantage (and at the same time wondering if this is all ethical and whatnot \U0001F62C).\n\nIn 2021, we had a marketing professional, [Marie Haynes](https://twitter.com/marie_haynes?lang=en), speak to us about the latest SEO trends. During her talk, she mentioned how 90% of users never scroll to the end of the page; thus, a good content marketing strategy is to structure the first few paragraphs to answer what the user is searching for.\n\nA good strategy indeed, but keyword stuffing while providing the answer to their SERP query in the first 3 paragraphs is a complex solution to scale across thousands of pages for 7 uniquely different brands. Our content writers work extremely hard to create engaging long-form content while our marketing team finds opportunities in the content to place internal links to funnel users.\n\nSo there it hit me. Is there a way to dynamically measure content experiences based on users' behaviors?\n"
   - image_alt: Screenshot of a slack message
     caption: "My Eureka! moment \U0001F4A1"
     width: regular
